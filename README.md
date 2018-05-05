@@ -1,1 +1,0 @@
-# rickshibata.github.io
