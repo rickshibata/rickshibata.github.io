@@ -1,3 +1,2 @@
 redcarpet
-exclude: ['README.md']
 theme: jekyll-theme-dinky
